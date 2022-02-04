@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-02-04">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Col 1:4.0" label="Col 1:4.0" />
+      <node id="Col 2:4.0" label="Col 2:4.0" />
+      <node id="Col 2:2.0" label="Col 2:2.0" />
+      <node id="Col 2:0.0" label="Col 2:0.0" />
+      <node id="Col 2:3.0" label="Col 2:3.0" />
+      <node id="Col 2:1.0" label="Col 2:1.0" />
+      <node id="Col 2:5.0" label="Col 2:5.0" />
+      <node id="Col 3:2.0" label="Col 3:2.0" />
+      <node id="Col 3:4.0" label="Col 3:4.0" />
+      <node id="Col 3:3.0" label="Col 3:3.0" />
+      <node id="Col 3:0.0" label="Col 3:0.0" />
+      <node id="Col 3:1.0" label="Col 3:1.0" />
+      <node id="Col 3:5.0" label="Col 3:5.0" />
+      <node id="Col 1:2.0" label="Col 1:2.0" />
+      <node id="Col 1:1.0" label="Col 1:1.0" />
+      <node id="Col 1:3.0" label="Col 1:3.0" />
+      <node id="Col 1:5.0" label="Col 1:5.0" />
+      <node id="Col 1:0.0" label="Col 1:0.0" />
+    </nodes>
+    <edges>
+      <edge source="Col 1:4.0" target="Col 2:4.0" id="0" weight="0.13767298404989173" />
+      <edge source="Col 1:4.0" target="Col 2:2.0" id="1" weight="0.08509875147727372" />
+      <edge source="Col 1:4.0" target="Col 2:0.0" id="2" weight="0" />
+      <edge source="Col 1:4.0" target="Col 2:3.0" id="3" weight="0.2243139476011189" />
+      <edge source="Col 1:4.0" target="Col 2:1.0" id="4" weight="0" />
+      <edge source="Col 1:4.0" target="Col 2:5.0" id="5" weight="0.06367853936970859" />
+      <edge source="Col 1:4.0" target="Col 3:2.0" id="6" weight="0.0922077672556974" />
+      <edge source="Col 1:4.0" target="Col 3:4.0" id="7" weight="0.14060391612886933" />
+      <edge source="Col 1:4.0" target="Col 3:3.0" id="8" weight="0.2416969198395344" />
+      <edge source="Col 1:4.0" target="Col 3:0.0" id="9" weight="0" />
+      <edge source="Col 1:4.0" target="Col 3:1.0" id="10" weight="0" />
+      <edge source="Col 1:4.0" target="Col 3:5.0" id="11" weight="0.02193244473816974" />
+      <edge source="Col 2:4.0" target="Col 1:2.0" id="12" weight="0" />
+      <edge source="Col 2:4.0" target="Col 1:1.0" id="13" weight="0" />
+      <edge source="Col 2:4.0" target="Col 1:3.0" id="14" weight="0" />
+      <edge source="Col 2:4.0" target="Col 1:5.0" id="15" weight="0.2658715238349916" />
+      <edge source="Col 2:4.0" target="Col 1:0.0" id="16" weight="0" />
+      <edge source="Col 2:4.0" target="Col 3:2.0" id="17" weight="0.014925831639164854" />
+      <edge source="Col 2:4.0" target="Col 3:4.0" id="18" weight="0.08155614965876869" />
+      <edge source="Col 2:4.0" target="Col 3:3.0" id="19" weight="0.1275110740164086" />
+      <edge source="Col 2:4.0" target="Col 3:0.0" id="20" weight="0" />
+      <edge source="Col 2:4.0" target="Col 3:1.0" id="21" weight="0" />
+      <edge source="Col 2:4.0" target="Col 3:5.0" id="22" weight="0.06555312671522842" />
+      <edge source="Col 2:2.0" target="Col 1:2.0" id="23" weight="0.024295816536656543" />
+      <edge source="Col 2:2.0" target="Col 1:1.0" id="24" weight="0" />
+      <edge source="Col 2:2.0" target="Col 1:3.0" id="25" weight="0.15071993206567058" />
+      <edge source="Col 2:2.0" target="Col 1:5.0" id="26" weight="0" />
+      <edge source="Col 2:2.0" target="Col 1:0.0" id="27" weight="0" />
+      <edge source="Col 2:2.0" target="Col 3:2.0" id="28" weight="0.048916213978510814" />
+      <edge source="Col 2:2.0" target="Col 3:4.0" id="29" weight="0.0161366494698634" />
+      <edge source="Col 2:2.0" target="Col 3:3.0" id="30" weight="0.08257943769823835" />
+      <edge source="Col 2:2.0" target="Col 3:0.0" id="31" weight="0" />
+      <edge source="Col 2:2.0" target="Col 3:1.0" id="32" weight="0" />
+      <edge source="Col 2:2.0" target="Col 3:5.0" id="33" weight="0.008308841904188534" />
+      <edge source="Col 2:0.0" target="Col 1:2.0" id="34" weight="0" />
+      <edge source="Col 2:0.0" target="Col 1:1.0" id="35" weight="0.27625237347340276" />
+      <edge source="Col 2:0.0" target="Col 1:3.0" id="36" weight="0" />
+      <edge source="Col 2:0.0" target="Col 1:5.0" id="37" weight="0" />
+      <edge source="Col 2:0.0" target="Col 1:0.0" id="38" weight="0.3420058217855799" />
+      <edge source="Col 2:0.0" target="Col 3:2.0" id="39" weight="0" />
+      <edge source="Col 2:0.0" target="Col 3:4.0" id="40" weight="0" />
+      <edge source="Col 2:0.0" target="Col 3:3.0" id="41" weight="0" />
+      <edge source="Col 2:0.0" target="Col 3:0.0" id="42" weight="0.2827339907575376" />
+      <edge source="Col 2:0.0" target="Col 3:1.0" id="43" weight="0.07401249919205044" />
+      <edge source="Col 2:0.0" target="Col 3:5.0" id="44" weight="0" />
+      <edge source="Col 2:3.0" target="Col 1:2.0" id="45" weight="0" />
+      <edge source="Col 2:3.0" target="Col 1:1.0" id="46" weight="0" />
+      <edge source="Col 2:3.0" target="Col 1:3.0" id="47" weight="0.054304889729913076" />
+      <edge source="Col 2:3.0" target="Col 1:5.0" id="48" weight="0.1887724476021609" />
+      <edge source="Col 2:3.0" target="Col 1:0.0" id="49" weight="0" />
+      <edge source="Col 2:3.0" target="Col 3:2.0" id="50" weight="0.049248634851658396" />
+      <edge source="Col 2:3.0" target="Col 3:4.0" id="51" weight="0.11736679279887163" />
+      <edge source="Col 2:3.0" target="Col 3:3.0" id="52" weight="0.1434553465259149" />
+      <edge source="Col 2:3.0" target="Col 3:0.0" id="53" weight="0" />
+      <edge source="Col 2:3.0" target="Col 3:1.0" id="54" weight="0" />
+      <edge source="Col 2:3.0" target="Col 3:5.0" id="55" weight="0.04560280726417681" />
+      <edge source="Col 2:1.0" target="Col 1:2.0" id="56" weight="0.13751856320997774" />
+      <edge source="Col 2:1.0" target="Col 1:1.0" id="57" weight="0.12241003677410008" />
+      <edge source="Col 2:1.0" target="Col 1:3.0" id="58" weight="0.00045927474881096286" />
+      <edge source="Col 2:1.0" target="Col 1:5.0" id="59" weight="0" />
+      <edge source="Col 2:1.0" target="Col 1:0.0" id="60" weight="0.011856092577399818" />
+      <edge source="Col 2:1.0" target="Col 3:2.0" id="61" weight="0" />
+      <edge source="Col 2:1.0" target="Col 3:4.0" id="62" weight="0" />
+      <edge source="Col 2:1.0" target="Col 3:3.0" id="63" weight="0" />
+      <edge source="Col 2:1.0" target="Col 3:0.0" id="64" weight="0.08577342115734463" />
+      <edge source="Col 2:1.0" target="Col 3:1.0" id="65" weight="0.0660426366183236" />
+      <edge source="Col 2:1.0" target="Col 3:5.0" id="66" weight="0" />
+      <edge source="Col 2:5.0" target="Col 1:2.0" id="67" weight="0" />
+      <edge source="Col 2:5.0" target="Col 1:1.0" id="68" weight="0" />
+      <edge source="Col 2:5.0" target="Col 1:3.0" id="69" weight="0" />
+      <edge source="Col 2:5.0" target="Col 1:5.0" id="70" weight="0.1290509577586233" />
+      <edge source="Col 2:5.0" target="Col 1:0.0" id="71" weight="0" />
+      <edge source="Col 2:5.0" target="Col 3:2.0" id="72" weight="0.003535568281881573" />
+      <edge source="Col 2:5.0" target="Col 3:4.0" id="73" weight="0.07617863715808526" />
+      <edge source="Col 2:5.0" target="Col 3:3.0" id="74" weight="0.05102959497945872" />
+      <edge source="Col 2:5.0" target="Col 3:0.0" id="75" weight="0" />
+      <edge source="Col 2:5.0" target="Col 3:1.0" id="76" weight="0" />
+      <edge source="Col 2:5.0" target="Col 3:5.0" id="77" weight="0.03460911694804075" />
+      <edge source="Col 3:2.0" target="Col 1:2.0" id="78" weight="0.025158119337012463" />
+      <edge source="Col 3:2.0" target="Col 1:1.0" id="79" weight="0" />
+      <edge source="Col 3:2.0" target="Col 1:3.0" id="80" weight="0.1415857086765798" />
+      <edge source="Col 3:2.0" target="Col 1:5.0" id="81" weight="0" />
+      <edge source="Col 3:2.0" target="Col 1:0.0" id="82" weight="0" />
+      <edge source="Col 3:4.0" target="Col 1:2.0" id="83" weight="0" />
+      <edge source="Col 3:4.0" target="Col 1:1.0" id="84" weight="0" />
+      <edge source="Col 3:4.0" target="Col 1:3.0" id="85" weight="0" />
+      <edge source="Col 3:4.0" target="Col 1:5.0" id="86" weight="0.2531207674771234" />
+      <edge source="Col 3:4.0" target="Col 1:0.0" id="87" weight="0" />
+      <edge source="Col 3:3.0" target="Col 1:2.0" id="88" weight="0" />
+      <edge source="Col 3:3.0" target="Col 1:1.0" id="89" weight="0" />
+      <edge source="Col 3:3.0" target="Col 1:3.0" id="90" weight="0.04749991989211846" />
+      <edge source="Col 3:3.0" target="Col 1:5.0" id="91" weight="0.20434339142822042" />
+      <edge source="Col 3:3.0" target="Col 1:0.0" id="92" weight="0" />
+      <edge source="Col 3:0.0" target="Col 1:2.0" id="93" weight="0" />
+      <edge source="Col 3:0.0" target="Col 1:1.0" id="94" weight="0.285782591671453" />
+      <edge source="Col 3:0.0" target="Col 1:3.0" id="95" weight="0" />
+      <edge source="Col 3:0.0" target="Col 1:5.0" id="96" weight="0" />
+      <edge source="Col 3:0.0" target="Col 1:0.0" id="97" weight="0.3596177291180553" />
+      <edge source="Col 3:1.0" target="Col 1:2.0" id="98" weight="0.1514044545704952" />
+      <edge source="Col 3:1.0" target="Col 1:1.0" id="99" weight="0.11396634017584673" />
+      <edge source="Col 3:1.0" target="Col 1:3.0" id="100" weight="0.00919513184749176" />
+      <edge source="Col 3:1.0" target="Col 1:5.0" id="101" weight="0" />
+      <edge source="Col 3:1.0" target="Col 1:0.0" id="102" weight="0" />
+      <edge source="Col 3:5.0" target="Col 1:2.0" id="103" weight="0" />
+      <edge source="Col 3:5.0" target="Col 1:1.0" id="104" weight="0" />
+      <edge source="Col 3:5.0" target="Col 1:3.0" id="105" weight="0" />
+      <edge source="Col 3:5.0" target="Col 1:5.0" id="106" weight="0.1690111602812076" />
+      <edge source="Col 3:5.0" target="Col 1:0.0" id="107" weight="0" />
+    </edges>
+  </graph>
+</gexf>
